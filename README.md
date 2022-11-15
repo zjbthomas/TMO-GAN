@@ -1,6 +1,6 @@
 # A Deep Learning Based Tone Mapping Operator for 4K HDR Images Focusing on Color Accuracy and Artistic Intent
 
-This is the repository for paper [A Deep Learning Based Tone Mapping Operator for 4K HDR Images Focusing on Color Accuracy and Artistic Intent]() submitted to ICIP 2022.
+This is the repository for paper [A Deep Learning Based Tone Mapping Operator for 4K HDR Images Focusing on Color Accuracy and Artistic Intent]() submitted to ICNC 2023.
 
 ## Dataset
 

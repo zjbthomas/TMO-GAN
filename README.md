@@ -1,6 +1,6 @@
-# A Deep Learning Based Tone Mapping Operator for 4K HDR Images Focusing on Color Accuracy and Artistic Intent
+# A Generative Adversarial Network Based Tone Mapping Operator for 4K HDR Images
 
-This is the repository for paper [A Deep Learning Based Tone Mapping Operator for 4K HDR Images Focusing on Color Accuracy and Artistic Intent]() submitted to ICNC 2023.
+This is the repository for paper [A Generative Adversarial Network Based Tone Mapping Operator for 4K HDR Images]() accepted to ICNC 2023.
 
 ## Dataset
 

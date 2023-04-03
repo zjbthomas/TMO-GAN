@@ -1,6 +1,6 @@
 # A Generative Adversarial Network Based Tone Mapping Operator for 4K HDR Images
 
-This is the repository for paper [A Generative Adversarial Network Based Tone Mapping Operator for 4K HDR Images]() accepted to ICNC 2023.
+This is the repository for paper [A Generative Adversarial Network Based Tone Mapping Operator for 4K HDR Images](https://ieeexplore.ieee.org/abstract/document/10074176/) accepted to ICNC 2023.
 
 ## Dataset
 
@@ -18,9 +18,9 @@ python -u esrgan.py --hdr_image_dir /path/to/HDR/ --sdr_image_dir /path/to/SDR/ 
 
 ### Testing
 
-Run the following code to evaluate the network. A pretrained model is provided [here](./pretrained/model.pth).
+Run the following code to evaluate the network. A pretrained model is provided [here](./pretrained/generator.pth).
 
 ```
 python -u infer.py --image_path /path/to/HDR/dir/ 
---output_dir /path/to/output/dir/ --checkpoint_model ./pretrained/model.pth 
+--output_dir /path/to/output/dir/ --checkpoint_model ./pretrained/generator.pth 
 ```
